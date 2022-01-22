@@ -1,4 +1,4 @@
-# Travel Journal single page app 
+# Meme Generator single page app 
 
 This project was part of the [React course on Scrimba](https://scrimba.com/learn/learnreact).
 
