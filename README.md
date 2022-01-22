@@ -9,8 +9,8 @@ It covered a wide range of React topics including:
 	Objects and destructuring
 	Array map() function
 	States and UseEffect
-  Asnyc & Await
-  JSX
+	Asnyc & Await
+	JSX
 	Javascript inside JSX
 	CSS & HTML
   
